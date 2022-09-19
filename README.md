@@ -2,8 +2,8 @@
 - 👀 I’m interested in literally anything related to computers
 - specially intersted in Linux
 
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on any small projects related to web 
+- 🌱 I’m currently Machine learning and Computer Vision
+- 💞️ I’m looking to collaborate on any small projects related to ML
 - 📫 How to reach me 
 - my email : shuwais2003@protonmail.com
 
